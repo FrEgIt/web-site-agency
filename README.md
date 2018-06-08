@@ -16,6 +16,6 @@ To use the web site:
 
 If you need to view manually the one page website open the file "index.html".
 
-### License
+## License
 
 There is no license. It's an open source project.
